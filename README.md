@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse!
 - 👀 I’m interested in web development, computer science, and their applications. In my free time, I like rock climbing, meditating, hiking, reading, traveling, and connecting with and supporting other people.
-- 📚 I’m currently learning full stack web development and tinkering with Arch Linux.
+- 📚 I’m currently learning back-end development.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jessesdevaney/)
 - 🌱 You can learn more about me on my [personal website](https://jessesdevaney.github.io/)
 

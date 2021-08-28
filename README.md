@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   </a>&nbsp;
   <a href="https://jessesdevaney.github.io/">
-   <img src="https://img.shields.io/badge/Personal-Website-green?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/-Personal%20Website-green?style=for-the-badge"/>
   </a>
   
 </p>

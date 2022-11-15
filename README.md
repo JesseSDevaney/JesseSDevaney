@@ -28,7 +28,7 @@ Here are some of the techonologies I utilize to build web apps:
 
 - **Back-end**: NodeJS, PHP, MySQL, Postgres, AWS, and Heroku
 
-- **Developer tooling**: Git and GitHub for version control, Markdown for documentation, Webpack for module bundling, Jest, Enzyme, and Cypress for software testing, Linux and Bash for administration and scripting, GitHub Actions for CI/CD, Docker for app containerization, and Rollbar for Error Logging and Tracking
+- **Developer tooling**: Git and GitHub for version control, Markdown for documentation, Webpack for module bundling, Jest, Enzyme, and Cypress for software testing, Linux and Bash for administration and scripting, GitHub Actions for CI/CD, Docker for app containerization, and Rollbar for error logging and tracking
 
 
 <!---

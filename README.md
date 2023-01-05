@@ -18,7 +18,7 @@
 <br>
 <h2> About Me </h2>
 
-At my core, I love to create and learn systems, overcome challenges, and deeply connect with other people. To contribute to the economy, I develop full-stack web applications. My main goal in my career is to use my skills to objectively improve the wellbeing of communities and the people that make them up.
+I love to create and learn systems, overcome challenges, and deeply connect with other people. To contribute to the economy, I develop full-stack web applications. My main goal in my career is to use my skills to objectively improve the wellbeing of communities and the people that make them up.
 
 
 <br>

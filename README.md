@@ -22,7 +22,7 @@ I love to create and learn systems, overcome challenges, and deeply connect with
 
 
 <br>
-Here are some of the techonologies I utilize to build web apps:
+Here are some of the techonologies I have utilized to build web apps:
 
 - **Front-end**: JavaScript, React, Material-UI, SASS, D3.js, and Tailwind
 

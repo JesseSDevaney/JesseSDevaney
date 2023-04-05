@@ -8,27 +8,19 @@
   
 </p>
   
-<h2> My Previous Gig </h2>
-<h3> Software Engineer at Moonrise </h3>
+<h2> My Current Gig </h2>
+<h3> Frontend Software Engineer at Moonrise </h3>
 
-- Researched, planned, and developed a full-stack, single page application for Moonrise workers to perform work on current shifts, view and prepare for upcoming shifts, review previous shifts and shift statistics, and access their own payroll
-- Developed Node.js applications to ingest events and perform various business functions using AWS Lambda
+Metabase is an open-source business intelligence tool designed with all users in mind. Metabase lets you ask questions about your data, and displays answers in formats that make sense, whether that’s a bar chart or a detailed table.
 
 
 <br>
 <h2> About Me </h2>
 
-I love to create and learn systems, overcome challenges, and deeply connect with other people. To contribute to the economy, I develop full-stack web applications. My main goal in my career is to use my skills to objectively improve the wellbeing of communities and the people that make them up.
+I love to solve problems, fix pain points, create and learn systems, and deeply connect with other people. My main goal in my career is to use my skills to objectively improve the wellbeing of communities and the people that make them up.
 
+In my free time I like hiking in nature, rock climbing, playing video games, learning new tech, and learning about physics and astronomy. The universe is wicked cool!
 
-<br>
-Here are some of the technologies I have utilized to build web apps:
-
-- **Front-end**: JavaScript, React, Material-UI, SASS, D3.js, and Tailwind
-
-- **Back-end**: NodeJS, PHP, MySQL, Postgres, AWS, and Heroku
-
-- **Developer tooling**: Git and GitHub for version control, Markdown for documentation, Webpack for module bundling, Jest, Enzyme, and Cypress for software testing, Linux and Bash for administration and scripting, GitHub Actions for CI/CD, Docker for app containerization, and Rollbar for error logging and tracking
 
 
 <!---

@@ -9,7 +9,7 @@
 </p>
   
 <h2> My Current Gig </h2>
-<h3> Frontend Software Engineer @ Moonrise </h3>
+<h3> Frontend Software Engineer @ Metabase </h3>
 
 Metabase is an open-source business intelligence tool designed with all users in mind. Metabase lets you ask questions about your data, and displays answers in formats that make sense, whether that’s a bar chart or a detailed table.
 

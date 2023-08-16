@@ -18,7 +18,7 @@ Metabase is an open-source business intelligence tool designed with all users in
 
 I love to solve problems, fix pain points, create and learn systems, and deeply connect with other people. My main goal in my career is to use my skills to objectively improve the wellbeing of communities and the people that make them up.
 
-In my free time I like hiking in nature, rock climbing, playing video games, learning new tech, and learning about physics and astronomy. The universe is wicked cool!
+In my free time I like hiking in nature, rock climbing, playing video games, learning new tech, and learning about physics and astronomy. The universe is beautiful 🪐🌍:atom:
 
 
 
